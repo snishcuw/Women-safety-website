@@ -1,0 +1,6 @@
+build/
+safe_steps
+*.o
+.vscode/
+.idea/
+.DS_Store
